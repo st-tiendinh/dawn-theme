@@ -10,16 +10,16 @@
     "1698118939a67670c5": {
       "type": "apps",
       "blocks": {
-        "590b75d3-b6f1-4916-8be6-19fe831e7a44": {
+        "91e3bb68-c8cc-4242-baf6-bec40cf5b3c4": {
           "type": "shopify:\/\/apps\/tien-theme\/blocks\/delete_button\/169ec320-ef4e-49cf-a695-d1c3ccd89677",
           "settings": {
-            "btn-delete": "Delete Account",
-            "color": "#dd1d1d"
+            "btn-delete": "Click me",
+            "color": "#000000"
           }
         }
       },
       "block_order": [
-        "590b75d3-b6f1-4916-8be6-19fe831e7a44"
+        "91e3bb68-c8cc-4242-baf6-bec40cf5b3c4"
       ],
       "settings": {
         "include_margins": true
