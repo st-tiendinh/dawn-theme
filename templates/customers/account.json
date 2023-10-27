@@ -7,10 +7,10 @@
         "padding_bottom": 36
       }
     },
-    "1698118939a67670c5": {
+    "169841377811a2e756": {
       "type": "apps",
       "blocks": {
-        "91e3bb68-c8cc-4242-baf6-bec40cf5b3c4": {
+        "024040d6-e6be-4ac8-8d49-757bdb82e24f": {
           "type": "shopify:\/\/apps\/tien-theme\/blocks\/delete_button\/169ec320-ef4e-49cf-a695-d1c3ccd89677",
           "settings": {
             "btn-delete": "Click me",
@@ -19,8 +19,14 @@
         }
       },
       "block_order": [
-        "91e3bb68-c8cc-4242-baf6-bec40cf5b3c4"
+        "024040d6-e6be-4ac8-8d49-757bdb82e24f"
       ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1698118939a67670c5": {
+      "type": "apps",
       "settings": {
         "include_margins": true
       }
@@ -28,6 +34,7 @@
   },
   "order": [
     "main",
+    "169841377811a2e756",
     "1698118939a67670c5"
   ]
 }
