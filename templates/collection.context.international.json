@@ -4,5 +4,28 @@
     "market": "international"
   },
   "sections": {
-  }
+    "169873655492962423": {
+      "type": "apps",
+      "disabled": false,
+      "settings": {
+        "include_margins": true
+      },
+      "blocks": {
+        "321e536b-9a78-4803-a9a9-e357e546fb84": {
+          "type": "shopify:\/\/apps\/currency-app\/blocks\/price_currency\/9f783a53-09ce-4d91-bb76-69ab3b8a1c0f",
+          "disabled": false,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "321e536b-9a78-4803-a9a9-e357e546fb84"
+      ]
+    }
+  },
+  "order": [
+    "banner",
+    "169873655492962423",
+    "product-grid"
+  ]
 }
