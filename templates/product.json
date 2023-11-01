@@ -22,8 +22,8 @@
             "text_style": "subtitle"
           }
         },
-        "d912df5e-1183-4fe8-9757-64c461652208": {
-          "type": "shopify:\/\/apps\/currency-app\/blocks\/price_currency\/9f783a53-09ce-4d91-bb76-69ab3b8a1c0f",
+        "2a63d9fe-becf-42e2-9f87-c42d5c24faa4": {
+          "type": "shopify:\/\/apps\/tien-dev-store-1-app\/blocks\/product_currency_detail\/08bb742a-e27e-4ee2-88a1-a87cf300e8b8",
           "settings": {
           }
         },
@@ -97,7 +97,7 @@
         "vendor",
         "title",
         "caption",
-        "d912df5e-1183-4fe8-9757-64c461652208",
+        "2a63d9fe-becf-42e2-9f87-c42d5c24faa4",
         "price",
         "quantity_selector",
         "buy_buttons",
