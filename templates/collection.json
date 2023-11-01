@@ -8,17 +8,17 @@
         "color_scheme": "background-1"
       }
     },
-    "1698807346f851dc01": {
+    "169882206970dd69e3": {
       "type": "apps",
       "blocks": {
-        "915633f2-7d4b-419e-bb9a-dcb8d75e5e45": {
-          "type": "shopify:\/\/apps\/currency-app\/blocks\/product_currency_list\/9f783a53-09ce-4d91-bb76-69ab3b8a1c0f",
+        "524e6977-ea62-4338-ad30-557f0ad54b0c": {
+          "type": "shopify:\/\/apps\/tien-dev-store-1-app\/blocks\/product_currency_list\/08bb742a-e27e-4ee2-88a1-a87cf300e8b8",
           "settings": {
           }
         }
       },
       "block_order": [
-        "915633f2-7d4b-419e-bb9a-dcb8d75e5e45"
+        "524e6977-ea62-4338-ad30-557f0ad54b0c"
       ],
       "settings": {
         "include_margins": true
@@ -47,7 +47,7 @@
   },
   "order": [
     "banner",
-    "1698807346f851dc01",
+    "169882206970dd69e3",
     "product-grid"
   ]
 }
