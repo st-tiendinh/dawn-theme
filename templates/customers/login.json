@@ -1,10 +1,33 @@
 {
   "sections": {
     "main": {
-      "type": "main-login"
+      "type": "main-login",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1698987079a32c6779": {
+      "type": "apps",
+      "blocks": {
+        "80efb795-630a-47b1-8f5e-3da3f4b36b54": {
+          "type": "shopify:\/\/apps\/theme-app-extension-remix\/blocks\/delete_button\/82723f60-71af-462d-b3e7-34212e758431",
+          "settings": {
+            "btn-delete": "Click me",
+            "color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "80efb795-630a-47b1-8f5e-3da3f4b36b54"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1698987079a32c6779"
   ]
 }
